@@ -47,8 +47,9 @@ I'm a Master's student in Data Science & Analytics at the University of Calgary 
 
 ## ⚡ Fun Facts
 - I’m passionate about American football and basketball analytics.
-- I’ve analyzed European soccer player stats to identify undervalued talent.
-- I love strategy games like chess and competitive sports gaming!
+- I'm passionate about eSports analytics as well.
+- I enjoy using AI to train my favorite singers' voice and match them with my favorite tracks
+- I enjoy using AI to make beautiful pictures (mainly 2D)
 
 ---
 

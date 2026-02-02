@@ -1,56 +1,48 @@
-<!--
-**dingjamma/dingjamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm James Ding
 
--->
+**Data Scientist** | Master's of Data Science & Analytics @ University of Calgary
 
-# 👋 Hi, I'm James Ding!
+I build models, optimize pipelines, and find insights in messy data. Currently working in private aviation, specializing in SQL optimization, data modeling, and machine learning.
 
-✨ Welcome to my GitHub profile! ✨  
-I'm a Master's student in Data Science & Analytics at the University of Calgary with a passion for turning data into actionable insights.
-- Currently seeking for a co-op Opportunity in Data Science / Analytics
-- Willing to relocate anywhere within Canada & USA
----
-
-## 🔭 What I’m Currently Working On.
-- **Agriculture Analytics:** Exploring market trends in Canadian agriculture.
-- **Pokemon Red** Continuing Peter Whiddy's AI project on Pokemon Red.
+📍 Calgary, AB, Canada
 
 ---
 
-## 🌱 What I’m Learning
-- Exploring **Polars**, a high-performance DataFrame library as a Pandas alternative for faster data manipulation.
-- Deepening knowledge in **ONNX** for efficient machine learning model deployment.
-- Investigating **DuckDB** for fast, in-memory SQL analytics directly on local datasets.
+## 🔭 Current Projects
+
+- **Super Bowl Prediction Model** – XGBoost binary classifier analyzing 25 years of data to identify winning trends
+- **SQL & Data Modeling** – Optimizing Snowflake views and resolving metric inflation in flight analytics
+- **Pokemon Red RL** – Continuing reinforcement learning experiments using Deep Q-Networks (inspired by Peter Whiddy's work)
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+
+**Data & ML:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Regression Models, Prophet, ARIMA, NLP, Reinforcement Learning (DQN)
+
+**Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS QuickSight
+
+**Cloud & Infrastructure:** AWS (S3, EC2, Lambda, QuickSight), Azure, Snowflake
+
+**Tools:** Jupyter, Google Colab, Git/GitHub, Excel (Advanced)
+
+## 💬 Let's Talk About
+
+- Machine learning model selection (when to use XGBoost vs Random Forest)
+- SQL optimization for large datasets
+- Time series forecasting (Prophet, ARIMA)
+- Natural language processing and text analytics
+- Reinforcement learning for games and automation
+- Sports analytics (NFL, NBA, esports)
+- AI for creative projects (voice synthesis, image generation)
+
+## 📫 Connect With Me
+
+📧 james@dingjames.com  
+💼 [LinkedIn](https://www.linkedin.com/in/jam-ding)  
+📝 [Medium](https://medium.com/@dingjamma)  
+🐙 [GitHub](https://github.com/dingjamma)
 
 ---
 
-## 👯 I’m Looking to Collaborate On
-- Sports data analytics projects.
-- Machine learning solutions for aviation and energy industries.
-- Open-source data science tools and dashboards.
-
----
-
-## 💬 Ask Me About
-- Predictive modeling and data visualization.
-- Insights from my **aviation and sports analytics** projects.
-- Tips for leveraging **SQL**, **Python**, and **AWS** in data pipelines.
-
----
-
-## 📫 How to Reach Me
-- Email: james@dingjames.com
-- LinkedIn: [James Ding](https://linkedin.com/in/jam-ding)
-- GitHub: [dingjamma](https://github.com/dingjamma)
-
----
-
-## ⚡ Fun Facts
-- I’m passionate about American football and basketball analytics.
-- I'm passionate about eSports analytics as well.
-- I enjoy using AI to train my favorite singers' voice and match them with my favorite tracks
-- I enjoy using AI to make beautiful pictures (mainly 2D)
-
----
-
-Feel free to explore my repositories and connect!
+⚡ **Fun fact:** I collect data on everything - from Super Bowl stats to prime rib Friday traditions

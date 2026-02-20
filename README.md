@@ -1,4 +1,4 @@
-# Hi, I'm James Ding (Jiajian) 👋
+# Hi, I'm James Ding 👋
 
 **Associate Data Analyst** at AirSprint Private Aviation | Calgary, AB, Canada  
 Building forecasting models, optimizing analytics pipelines, and turning aviation operations data into actionable insights.  

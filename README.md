@@ -13,9 +13,6 @@ Aspiring Data Scientist / AI Engineer — shipping real ML projects in private j
 
 | Project | Description |
 |---|---|
-| **Revenue & Airborne Hours Forecasting** | End-to-end time-series models (Prophet) predicting private jet utilization across a 43+ aircraft fleet |
-| **SQL & Snowflake Optimization** | Improving view performance, fixing metric inflation, and cleaning up legacy flight analytics |
-| **Super Bowl Prediction Model** | XGBoost classifier trained on 25+ years of NFL data to uncover winning trends |
 | **Pokémon Red RL** | Deep Q-Network agents learning to play the classic Game Boy game from scratch |
 
 ---
@@ -23,8 +20,11 @@ Aspiring Data Scientist / AI Engineer — shipping real ML projects in private j
 ## 🛠 Tech Stack
 
 **Languages** — Python, SQL
+
 **ML & Data** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA, Random Forest, DQN
+
 **Visualization** — Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS QuickSight
+
 **Cloud & Tools** — AWS (S3, EC2, Lambda, QuickSight), Snowflake, Git, Jupyter, Google Colab
 
 ---

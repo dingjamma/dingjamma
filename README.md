@@ -1,41 +1,44 @@
-# Hi, I'm James Ding 👋
+ # Hi, I'm James Ding 👋
 
-**Associate Data Analyst** at AirSprint Private Aviation | Calgary, AB, Canada  
-Building forecasting models, optimizing analytics pipelines, and turning aviation operations data into actionable insights.  
-Aspiring Data Scientist / AI Engineer — currently shipping real ML projects in private jet fractional ownership.
+  **Associate Data Analyst @ AirSprint Private Aviation | Calgary, AB**
+  Building forecasting models, optimizing analytics pipelines, and turning messy aviation data into actionable insights.
 
-📍 Calgary, Alberta  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-real-slug/) | 📧 james@dingjames.com | 🐙 GitHub
+  Aspiring Data Scientist / AI Engineer — shipping real ML projects in private jet fractional ownership.
 
-### What I'm Working On Right Now
-- **Revenue & Airborne Hours Forecasting** @ AirSprint  
-  Developing end-to-end time-series models (Prophet) to predict private jet utilization and support fleet planning during rapid expansion (fleet now 43+ aircraft).
-  
-- **SQL & Snowflake Optimization** @ AirSprint  
-  Improving view performance, fixing metric inflation, and cleaning up legacy flight analytics logic.
+  📧 james@dingjames.com &nbsp;|&nbsp; [LinkedIn](your-url) &nbsp;|&nbsp; [Portfolio](your-url)
 
-- **Super Bowl Prediction Model**  
-  XGBoost binary classifier trained on 25+ years of NFL data to uncover winning trends.
+  ---
 
-- **Pokémon Red RL Experiments**  
-  Deep Q-Network agents learning to play the classic Game Boy game (inspired by community benchmarks).
+  ## 🔨 What I'm Working On
 
-### Tech I Use Daily
-**Languages** — Python, SQL  
-**Data & ML** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA, Random Forest, basic RL (DQN)  
-**Visualization** — Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS QuickSight  
-**Cloud & Tools** — AWS (S3, EC2, Lambda, QuickSight), Snowflake, Jupyter, Git/GitHub, Google Colab
+  | Project | Description |
+  |---|---|
+  | **Revenue & Airborne Hours Forecasting** | End-to-end time-series models (Prophet) predicting private jet
+  utilization across a 43+ aircraft fleet |
+  | **SQL & Snowflake Optimization** | Improving view performance, fixing metric inflation, and cleaning up legacy
+  flight analytics |
+  | **Super Bowl Prediction Model** | XGBoost classifier trained on 25+ years of NFL data to uncover winning trends |
+  | **Pokémon Red RL** | Deep Q-Network agents learning to play the classic Game Boy game from scratch |
 
-### Things I Love Talking About
-- Choosing the right model for the job (XGBoost vs. Random Forest vs. Prophet vs. neural nets)  
-- Time-series forecasting in real business settings  
-- SQL performance tuning on large datasets  
-- Reinforcement learning for games and automation  
-- Sports analytics (NFL, NBA, esports)  
-- Applying ML creatively (generative coding, image/voice projects)
+  ---
 
-⚡ Fun fact: I collect weird datasets — Super Bowl box scores, prime rib Friday traditions, you name it.
+  ## 🛠 Tech Stack
 
-Open to feedback, collaborations, or junior data science / AI engineering opportunities!
+  **Languages** — Python, SQL
+  **ML & Data** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA, Random Forest, DQN
+  **Visualization** — Matplotlib, Seaborn, Plotly, Tableau, Power BI, AWS QuickSight
+  **Cloud & Tools** — AWS (S3, EC2, Lambda, QuickSight), Snowflake, Git, Jupyter, Google Colab
 
-Last updated: February 2026
+  ---
+
+  ## 💬 Let's Talk About
+
+  - Picking the right model for the job (XGBoost vs. Prophet vs. neural nets)
+  - Time-series forecasting in real business settings
+  - SQL performance tuning on large datasets
+  - RL for games and automation
+  - Sports analytics (NFL, NBA, esports)
+
+  ⚡ I collect weird datasets — Super Bowl box scores, prime rib Friday traditions, you name it.
+
+  ---

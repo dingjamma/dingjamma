@@ -13,7 +13,8 @@ Aspiring Data Scientist / AI Engineer — shipping real ML projects in private j
 
 | Project | Description |
 |---|---|
-| **Pokémon Red RL** | Deep Q-Network agents learning to play the classic Game Boy game from scratch |
+| **Pokémon Red RL** | Forked from Peter Whidden, Deep Q-Network agents learning to play the classic Game Boy game from scratch |
+| **MiroFish** | Forked from 666ghj, simulated universe to predict the future based on news article |
 
 ---
 

@@ -40,8 +40,6 @@ Aspiring Data Scientist / AI Engineer — shipping real ML projects in private j
 - Sports analytics (NFL, NBA, esports)
 - How oil prices drive Alberta real estate
 
-⚡ I collect weird datasets — Super Bowl box scores, prime rib Friday traditions, you name it.
-
 ---
 
 > 🌐 See my full work at **[dingjames.com](https://dingjames.com)**

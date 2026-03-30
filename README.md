@@ -19,14 +19,6 @@ james@dingjames.com | [LinkedIn](https://linkedin.com/in/dingjames) | [dingjames
 
 ---
 
-## Currently Learning
-
-Working through **93 AI engineering projects** covering LLMs, RAG, agents, MCP, fine-tuning, and production systems.
-
-Tracking progress here: [**ai-engineering-learning**](https://github.com/dingjamma/ai-engineering-learning)
-
----
-
 ## Tech Stack
 
 **Languages** — Python, SQL

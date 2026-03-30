@@ -33,7 +33,7 @@ Tracking progress here: [**ai-engineering-learning**](https://github.com/dingjam
 
 **ML & Data** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA
 
-**AI** — LangChain, LlamaIndex, CrewAI, Claude API, Ollama, FAISS, RAG
+**AI** — LangChain, LlamaIndex, CrewAI, Ollama, FAISS, RAG
 
 **Visualization** — Streamlit, Plotly, Tableau, Power BI
 

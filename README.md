@@ -1,45 +1,50 @@
-# Hi, I'm James Ding 👋
+# Hi, I'm James Ding
 
 **Associate Data Analyst @ AirSprint Private Aviation | Calgary, AB**
-Building forecasting models, optimizing analytics pipelines, and turning messy aviation data into actionable insights.
 
-Aspiring Data Scientist / AI Engineer — shipping real ML projects in private jet fractional ownership.
+Building forecasting models, optimizing analytics pipelines, and turning messy aviation data into actionable insights. Currently leveling up into AI engineering.
 
-📧 james@dingjames.com &nbsp;|&nbsp; [LinkedIn](your-url) &nbsp;|&nbsp; [🌐 Portfolio → dingjames.com](https://dingjames.com)
+james@dingjames.com | [LinkedIn](https://linkedin.com/in/dingjames) | [dingjames.com](https://dingjames.com)
 
 ---
 
-## 🔨 What I'm Building
+## What I'm Building
 
-| Project | Description |
+| Project | What It Does |
 |---|---|
-| **[NBA Player Prop Predictor](https://github.com/dingjamma/NBA-Player-Prop)** | Nightly pipeline predicting Victor Wembanyama's prop bets — XGBoost inference + MiroFish multi-agent simulation. Runs automatically at midnight before every Spurs game. |
-| **[Calgary Housing Intelligence](https://github.com/dingjamma/Calgary-Housing)** | Full data pipeline tracking how oil prices drive Calgary real estate. Scrapes 21 years of data, trains 3 XGBoost models (annual/monthly/daily), generates a Housing Pressure Score, and runs a geopolitical simulation via MiroFish. Live dashboard on Streamlit. |
+| [**NBA-Simulverse**](https://github.com/dingjamma/NBA-Simulverse) | NBA season simulation where every player is an autonomous LLM agent with memory, personality, and team chemistry. Hundreds of sims to capture human behavioral factors. |
+| [**NBA Player Prop Predictor**](https://github.com/dingjamma/NBA-Player-Prop) | Nightly pipeline predicting Wembanyama's prop bets — XGBoost + multi-agent simulation. Runs automatically before every Spurs game. |
+| [**Calgary Housing Intelligence**](https://github.com/dingjamma/Calgary-Housing) | Full pipeline tracking how oil prices drive Calgary real estate. 21 years of data, 3 XGBoost models, Housing Pressure Score, and a geopolitical simulation. |
+| [**AI Judge**](https://github.com/dingjamma/ai_judge) | Supreme Court verdict prediction using RAG with Claude and FAISS on 200 landmark SCOTUS cases. |
 
 ---
 
-## 🛠 Tech Stack
+## Currently Learning
+
+Working through **93 AI engineering projects** covering LLMs, RAG, agents, MCP, fine-tuning, and production systems.
+
+Tracking progress here: [**ai-engineering-learning**](https://github.com/dingjamma/ai-engineering-learning)
+
+---
+
+## Tech Stack
 
 **Languages** — Python, SQL
 
-**ML & Data** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA, Random Forest
+**ML & Data** — pandas, NumPy, scikit-learn, XGBoost, Prophet, ARIMA
 
-**Visualization** — Matplotlib, Seaborn, Plotly, Streamlit, Tableau, Power BI
+**AI** — LangChain, LlamaIndex, CrewAI, Claude API, Ollama, FAISS, RAG
 
-**AI & Simulation** — MiroFish, Zep GraphRAG, qwen-plus, multi-agent systems
+**Visualization** — Streamlit, Plotly, Tableau, Power BI
 
-**Tools** — Git, Jupyter, yfinance, pdfplumber, Claude Code
+**Tools** — Git, Claude Code, Jupyter, Docker
 
 ---
 
-## 💬 Let's Talk About
+## Let's Talk About
 
-- Picking the right model for the job (XGBoost vs. Prophet vs. neural nets)
 - Time-series forecasting in real business settings
-- SQL performance tuning on large datasets
+- LLM agents and multi-agent systems
 - Sports analytics (NFL, NBA, esports)
+- RAG systems and AI engineering
 - How oil prices drive Alberta real estate
-
----
-
-> 🌐 See my full work at **[dingjames.com](https://dingjames.com)**

@@ -10,7 +10,7 @@ james@dingjames.com  ·  [LinkedIn](https://linkedin.com/in/dingjames)  ·  [din
 
 ## What I'm Building
 
-### 🤖 [polymarket-detector](https://github.com/dingjamma/polymarket-detector)
+### 🤖 [polybot](https://github.com/dingjamma/polybot)
 
 **An AWS Lambda bot that reads live Polymarket tech markets, forms an independent probability estimate with Claude, and places bets when it sees edge — with a homegrown insider-trading detector as a defensive filter.**
 
